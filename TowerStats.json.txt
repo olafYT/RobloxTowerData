@@ -38,4 +38,44 @@
             }
         ]
     },
+{
+    "Shadow Hunter": {
+        "Type": "Single",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Uncommon",
+        "PlacePrice": 220,
+        "Max": 5,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 12,
+                "Cooldown": 1
+            },
+            {
+                "Price": 400,
+                "Range": 17,
+                "Damage": 20,
+                "Cooldown": 0.7
+            },
+            {
+                "Price": 600,
+                "Range": 20,
+                "Damage": 25,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 1200,
+                "Range": 25,
+                "Damage": 30,
+                "Cooldown": 0.4
+            }
+        ]
+    },
 }
